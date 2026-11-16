@@ -332,5 +332,4 @@ public class BoardTest {
         assertTrue(bomb.isDestroyed());
     }
 
-
 }
